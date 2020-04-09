@@ -8,8 +8,6 @@
 
 Live demo: https://evert-arias.github.io/react-github-org-members
 
-![demo](demo.png)
-
 ## Install
 
 ```bash
