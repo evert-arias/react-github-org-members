@@ -33,7 +33,6 @@ const App = () => {
 };
 
 export default App;
-
 ```
 
 You must pass the following two props to the component:
