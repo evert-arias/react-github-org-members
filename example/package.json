@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "dotenv": "^8.2.0",
     "react": "file:../node_modules/react",
     "react-dom": "file:../node_modules/react-dom",
     "react-github-org-members": "file:..",
