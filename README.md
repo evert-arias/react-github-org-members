@@ -2,7 +2,7 @@
 
 > Small and simple React component to display GitHub organization members.
 
-[![NPM](https://img.shields.io/npm/v/react-contributors.svg)](https://github.com/evert-arias/react-github-org-members) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-github-org-members.svg)](https://github.com/evert-arias/react-github-org-members)
 
 ## Demo
 
